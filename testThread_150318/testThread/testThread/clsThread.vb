@@ -48,6 +48,7 @@ Public Class clsThread
         'gNum = num
 
         myState(gNum) = 1
+        'myRunState(gNum) = True
         myRunState(gNum) = True
 
         While (myState(gNum))

@@ -30,3 +30,7 @@ D:\2.Program\testThread\testThread_150318\testThread\testThread\bin\Debug\testTh
 D:\2.Program\testThread\testThread_150318\testThread\testThread\obj\Debug\testThread.testThread.resources
 D:\2.Program\testThread\testThread_150318\testThread\testThread\obj\Debug\testThread.Resources.resources
 D:\2.Program\testThread\testThread_150318\testThread\testThread\obj\Debug\testThread.vbproj.GenerateResource.Cache
+D:\GitHub\Work\testThread_150318\testThread\testThread\bin\Debug\testThread.exe.config
+D:\GitHub\Work\testThread_150318\testThread\testThread\obj\Debug\testThread.exe
+D:\GitHub\Work\testThread_150318\testThread\testThread\obj\Debug\testThread.xml
+D:\GitHub\Work\testThread_150318\testThread\testThread\obj\Debug\testThread.pdb
